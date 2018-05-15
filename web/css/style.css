@@ -1,0 +1,37 @@
+
+
+body {
+    background-color: #28B799;
+}
+
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: yellow;
+    text-align: center;
+}
+
+footer {
+    background-color: purple;
+    text-align: center;
+}
+ /* ------- RESUMATE PERSONAGE --------*/
+
+.resumate-perso {
+     background-color: #D75749;
+     border: palevioletred 1px solid;
+     border-radius: 10%;
+     text-align: center;
+     width: 60vw;
+     font-family: 'Gothic A1', sans-serif;
+ }
